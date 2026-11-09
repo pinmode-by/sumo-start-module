@@ -13,5 +13,5 @@
 |------|---|
 | [Schematic_Referee_Sumo_RC.pdf](/pinMode_edition/Referee_remote/Hardware/Schematic_Referee_Sumo_RC.pdf) | Принципиальная схема пульта |
 | [BOM_Referee_sumo_RC.pdf](/pinMode_edition/Referee_remote/Hardware/BOM_referee_sumo_RC.pdf) | Список компонентов |
-| [PickAndPlace_Referee_sumo_RC.pdf]| Таблица размещения компонентов|
+| [PickAndPlace_Referee_sumo_RC .pdf]| Таблица размещения компонентов|
 | [Gerber_Rereree_Sumo_RC.zip](/pinMode_edition/Referee_remote/Hardware/Gerber_Rereree_Sumo_RC.zip)| Gerber-файл для производства|
