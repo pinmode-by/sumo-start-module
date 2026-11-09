@@ -13,5 +13,5 @@
 
 
 ## pinMode_edition - модуль и пульт, разработанные в клубе pinMode (Беларусь)
-
+<img src="/pinMode_edition/Referee_remote/Hardware/img/photo_pinMode_module_and_RC.jpg"  height="400"/>
 Печатные платы можно заказать на производстве, запаять, прошить их.
