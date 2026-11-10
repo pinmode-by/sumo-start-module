@@ -6,3 +6,5 @@
 4. Совместим по выводам с модулем Robotchallenge
 
 <img src="/pinMode_edition/Start_module/Hardware/img/Start_module.jpg"  height="300"/>
+
+<img src="/pinMode_edition/Start_module/Hardware/img/PCB_view.jpg"  height="300"/>
