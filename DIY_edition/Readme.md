@@ -1,6 +1,6 @@
-# [Стартовый модуль](/DIY_edition/Start_module/) представляет собой ИК-приемник на 38 кГц
+# [Стартовый модуль](/DIY_edition/Hardware/tsop48.pdf) представляет собой ИК-приемник на 38 кГц
 
-<img src="/DIY_edition/Referee_remote/Hardware/img/TSOP_XX38.png"  width="400"/>
+<img src="/DIY_edition/Hardware/img/TSOP_XX38.png"  width="400"/>
 
 [Программа для Arduino IDE](/DIY_edition/Start_module/TSOP_as_start_module.ino)
 
