@@ -9,7 +9,7 @@
 Используется ИК-канал связи на частоте 38 кГц и протокол RC-5
 
 ## [DIY_edition](/DIY_edition/) - вместо стартового модуля используется датчик TSOP xx38, а пульт собирается на Arduino nano
-<img src="/DIY_edition/Referee_remote/Hardware/img/photo_DIY_module_and_RC.jpg"  height="400"/>
+<img src="/DIY_edition/Referee_remote/Hardware/img/TSOP_and_DIY_referee_RC.jpg"  height="400"/>
 
 
 ## [pinMode_edition](/pinMode_edition/) - модуль и пульт, разработанные в клубе pinMode (Беларусь)
