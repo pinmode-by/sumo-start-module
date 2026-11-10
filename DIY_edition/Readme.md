@@ -14,5 +14,6 @@
 | Файл | Назначение |
 |------|------------|
 | [Schematic_DIY_referee_remote.pdf](/DIY_edition/Hardware/Schematic_DIY_referee_remote.pdf)| Принципиальная схема |
+| [BOM_DIY_referee_RC.pdf](DIY_edition/Hardware/BOM_DIY_referee_RC.pdf)| Список деталей |
 | [PCB_DIY_Referee_remote_top_layer.pdf](/DIY_edition/Hardware/PCB_DIY_Referee_remote_top_layer.pdf) | Расположение деталей на верхнем слое |
 | [PCB_DIY_Referee_remote_bottom_layer.pdf](/DIY_edition/Hardware/PCB_DIY_Referee_remote_bottom_layer.pdf) | Нижний слой платы для ЛУТ |
