@@ -12,7 +12,7 @@
 [Программа для Arduino IDE](/DIY_edition/Software/Referee_remote.ino)
 
 | Файл | Назначение |
-
-| [PCB_DIY_Referee_remote_bottom_layer.pdf](/DIY_edition/Hardware/PCB_DIY_Referee_remote_bottom_layer.pdf) | Нижний слой платы для ЛУТ|
-
-| [PCB_DIY_Referee_remote_top_layer.pdf](Hardware/PCB_DIY_Referee_remote_top_layer.pdf) | Расположение деталей на верхнем слое |
+|------|------------|
+| [PCB_DIY_Referee_remote_bottom_layer.pdf](/Hardware/PCB_DIY_Referee_remote_bottom_layer.pdf) | Нижний слой платы для ЛУТ |
+| [PCB_DIY_Referee_remote_top_layer.pdf](/Hardware/PCB_DIY_Referee_remote_top_layer.pdf) | Расположение деталей на верхнем слое |
+| [DIY_edition/Hardware/Schematic_DIY_referee_remote.pdf](/DIY_edition/Hardware/Schematic_DIY_referee_remote.pdf)| Принципиальная схема |
