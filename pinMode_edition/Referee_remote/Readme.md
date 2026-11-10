@@ -2,4 +2,4 @@
 * [Оборудование](/pinMode_edition/Referee_remote/Hardware/)
 * [Программное обеспечение](/pinMode_edition/Referee_remote/Software/)
 
-<img src="/pinMode_edition/Referee_remote/Hardware/img/photo_Device.jpg"  height="300"/>
+<img src="pinMode_edition/Referee_remote/Hardware/img/photo_pinMode_RC.jpg"  height="300"/>
