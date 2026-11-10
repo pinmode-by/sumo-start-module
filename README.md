@@ -4,13 +4,14 @@
 + Robotchallenge (Китай)
 + Robochallenge (Румыния)
 + Robotex (Эстония, Кипр, Турция, Индия, Греция, Китай)
-+ Кубок по образовательной робототехнике (Беларусь)
 + Робофинист (Россия)
++ Кубок по образовательной робототехнике (Беларусь)
+
 
 Используется ИК-канал связи на частоте 38 кГц и протокол RC-5
 
 ## [DIY_edition](/DIY_edition/) - вместо стартового модуля используется датчик TSOP xx38, а пульт собирается на Arduino nano
-<img src="/DIY_edition/Referee_remote/Hardware/img/TSOP_and_DIY_referee_RC.jpg"  width="800"/>
+<img src="/DIY_edition/Hardware/img/TSOP_and_DIY_referee_RC.jpg"  width="800"/>
 
 
 ## [pinMode_edition](/pinMode_edition/) - модуль и пульт, разработанные в клубе pinMode (Беларусь)
